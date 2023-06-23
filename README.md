@@ -1,2 +1,3 @@
 # Secret_Scan_Repo
-
+Artifactory API Key
+AKCp8ohxcUZ5hos685KbJKZ7S8rxZxfUZQ1MGoE3qZgK3tZ3dxMBC4Cw1vFKeXBbcmGgx2eQz
